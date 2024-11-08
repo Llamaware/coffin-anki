@@ -2,7 +2,7 @@
 
 A script to generate Anki decks from Coffin of Andy and Leyley translations.
 
-[!screenshot](/screenshot.png)
+![screenshot](/screenshot.png)
 
 ---
 
