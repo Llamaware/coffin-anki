@@ -8,7 +8,7 @@ A script to generate Anki decks from Coffin of Andy and Leyley translations.
 
 ## Usage
 
-Place the `dialogue.csv` of your desired language in the same directory as the script.
+Place the `dialogue.csv` file of your desired language in the same directory as the script.
 
 Then run `python gen-anki.py`
 
@@ -16,13 +16,9 @@ Then run `python gen-anki.py`
 
 Then import the `.csv` file into Anki. You can use the below template, or create your own.
 
----
+## Template
 
-## Sample decks
-
-Some premade decks may be available from the releases.
-
-Front Template:
+Front template:
 
 ```
 <div class="tag">
@@ -42,7 +38,7 @@ Front Template:
 {{/Reverse}}
 ```
 
-Back Template:
+Back template:
 
 ```
 {{FrontSide}}
@@ -90,6 +86,10 @@ b {
   color:#000;
 }
 ```
+
+## Sample decks
+
+Some premade decks may be available from the releases.
 
 ---
 
